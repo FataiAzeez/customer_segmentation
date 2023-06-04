@@ -12,7 +12,7 @@ library(GGally)
 
 
 # importing the store data set
-store_data <- read.csv("Dataset/data.csv")
+store_data <- read.csv("data.csv")
 
 
 # checking if there are null value in the dataset
